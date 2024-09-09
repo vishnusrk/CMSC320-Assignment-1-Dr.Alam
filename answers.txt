@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git is a very useful tool in keeping track of versions and outlining the changes that are made to files.
